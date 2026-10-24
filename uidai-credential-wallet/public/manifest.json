@@ -1,0 +1,12 @@
+
+{
+  "id": "/",
+  "name": "UIDAI Credential Wallet",
+  "short_name": "Credential Wallet",
+  "description": "A secure demonstration wallet for digital credentials.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8"
+}
